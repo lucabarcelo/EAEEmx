@@ -2,4 +2,6 @@
 
 I wrote my midterm using python and jupyter notebooks.
 
-The file to download is entiled "ljb2179mx.ipynb". A non-interactive PDF copy of the submission is avialable too.
+Clicking upon the file entitled "ljb2179mx.ipynb" should allow you to view my work in a non-interactive way.
+
+The file is also avialable for download. A non-interactive PDF copy of the submission is avialable too.
